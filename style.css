@@ -48,7 +48,7 @@ body {
 
 
 .vector-left {
-    background-image: url(/img/Vector-left.png);
+    background-image: url(img/Vector-left.png);
     position: absolute;
     top: 0;
     left: 0;
@@ -58,7 +58,7 @@ body {
 
 
 .vector-right {
-    background-image: url(/img/Vector-right.png);
+    background-image: url(img/Vector-right.png);
     position: absolute;
     top: 0;
     right: 0;
@@ -136,26 +136,26 @@ h1 {
 }
 
 .days {
-    background-image: url(/img/days.png);
+    background-image: url(img/days.png);
     width: 132px;
     height: 54px;
 
 }
 
 .hours {
-    background-image: url(/img/hours.png);
+    background-image: url(img/hours.png);
     width: 132px;
     height: 54px;
 }
 
 .minutes {
-    background-image: url(/img/minutes.png);
+    background-image: url(img/minutes.png);
     width: 132px;
     height: 54px;
 }
 
 .seconds {
-    background-image: url(/img/seconds.png);
+    background-image: url(img/seconds.png);
     width: 132px;
     height: 54px;
 }
@@ -234,7 +234,7 @@ footer {
     height: 43px;
     border: none;
     /* Убираем рамку */
-    background: url(/img/arrinput.png);
+    background: url(img/arrinput.png);
     position: absolute;
     top: 8px;
     left: 390px;
@@ -382,42 +382,42 @@ footer {
 }
 
 .accordion-section-header1 {
-    background-image: linear-gradient(180deg, rgba(22, 44, 78, 0) 0%, #162C4E 100%), url(/img/01.png);
+    background-image: linear-gradient(180deg, rgba(22, 44, 78, 0) 0%, #162C4E 100%), url(img/01.png);
 
 }
 
 .accordion-section-header2 {
-    background-image: linear-gradient(180deg, rgba(22, 44, 78, 0) 0%, #162C4E 100%), url(/img/02.jpg);
+    background-image: linear-gradient(180deg, rgba(22, 44, 78, 0) 0%, #162C4E 100%), url(img/02.jpg);
 
 }
 
 .accordion-section-header3 {
-    background-image: linear-gradient(180deg, rgba(22, 44, 78, 0) 0%, #162C4E 100%), url(/img/03.jpg);
+    background-image: linear-gradient(180deg, rgba(22, 44, 78, 0) 0%, #162C4E 100%), url(img/03.jpg);
 
 }
 
 .accordion-section-header4 {
-    background-image: linear-gradient(180deg, rgba(22, 44, 78, 0) 0%, #162C4E 100%), url(/img/04.jpg);
+    background-image: linear-gradient(180deg, rgba(22, 44, 78, 0) 0%, #162C4E 100%), url(img/04.jpg);
 
 }
 
 .accordion-section-header5 {
-    background-image: linear-gradient(180deg, rgba(22, 44, 78, 0) 0%, #162C4E 100%), url(/img/05.jpg);
+    background-image: linear-gradient(180deg, rgba(22, 44, 78, 0) 0%, #162C4E 100%), url(img/05.jpg);
 
 }
 
 .accordion-section-header6 {
-    background-image: linear-gradient(180deg, rgba(22, 44, 78, 0) 0%, #162C4E 100%), url(/img/06.jpg);
+    background-image: linear-gradient(180deg, rgba(22, 44, 78, 0) 0%, #162C4E 100%), url(img/06.jpg);
 
 }
 
 .accordion-section-header7 {
-    background-image: linear-gradient(180deg, rgba(22, 44, 78, 0) 0%, #162C4E 100%), url(/img/07.jpg);
+    background-image: linear-gradient(180deg, rgba(22, 44, 78, 0) 0%, #162C4E 100%), url(img/07.jpg);
 
 }
 
 .accordion-section-header8 {
-    background-image: linear-gradient(180deg, rgba(22, 44, 78, 0) 0%, #162C4E 100%), url(/img/08.jpg);
+    background-image: linear-gradient(180deg, rgba(22, 44, 78, 0) 0%, #162C4E 100%), url(img/08.jpg);
 
 }
 
@@ -504,35 +504,35 @@ footer {
 }
 
 .accordion-section-content1 {
-    background-image: url(/img/01.png);
+    background-image: url(img/01.png);
 }
 
 .accordion-section-content2 {
-    background-image: url(/img/02.jpg);
+    background-image: url(img/02.jpg);
 }
 
 .accordion-section-content3 {
-    background-image: url(/img/03.jpg);
+    background-image: url(img/03.jpg);
 }
 
 .accordion-section-content4 {
-    background-image: url(/img/04.jpg);
+    background-image: url(img/04.jpg);
 }
 
 .accordion-section-content5 {
-    background-image: url(/img/05.jpg);
+    background-image: url(img/05.jpg);
 }
 
 .accordion-section-content6 {
-    background-image: url(/img/06.jpg);
+    background-image: url(img/06.jpg);
 }
 
 .accordion-section-content7 {
-    background-image: url(/img/07.jpg);
+    background-image: url(img/07.jpg);
 }
 
 .accordion-section-content8 {
-    background-image: url(/img/08.jpg);
+    background-image: url(img/08.jpg);
 }
 
 
@@ -702,25 +702,25 @@ left: 90%;
 
 
     .days {
-        background-image: url(/img/dd.png);
+        background-image: url(img/dd.png);
         width: 64px;
         height: 40px;
     }
 
     .hours {
-        background-image: url(/img/hh.png);
+        background-image: url(img/hh.png);
         width: 64px;
         height: 40px;
     }
 
     .minutes {
-        background-image: url(/img/mm.png);
+        background-image: url(img/mm.png);
         width: 64px;
         height: 40px;
     }
 
     .seconds {
-        background-image: url(/img/ss.png);
+        background-image: url(img/ss.png);
         width: 64px;
         height: 40px;
     }
@@ -730,14 +730,14 @@ left: 90%;
 
 
     .vector-left {
-        background-image: url(/img/Vector-left-2.png);
+        background-image: url(img/Vector-left-2.png);
         width: 248px;
         height: 207px;
     }
 
 
     .vector-right {
-        background-image: url(/img/Vector-right-2.png);
+        background-image: url(img/Vector-right-2.png);
 
         width: 253px;
         height: 245px;
@@ -756,7 +756,7 @@ left: 90%;
         background-size: 33px 33px;
         background-repeat: no-repeat;
         border: none;
-        background-image: url(/img/arrinput.png);
+        background-image: url(img/arrinput.png);
         position: absolute;
         top: 4px;
         left: 320px;
@@ -967,25 +967,25 @@ footer{display: flex;
 
 
     .days {
-        background-image: url(/img/dd.png);
+        background-image: url(img/dd.png);
         width: 64px;
         height: 40px;
     }
 
     .hours {
-        background-image: url(/img/hh.png);
+        background-image: url(img/hh.png);
         width: 64px;
         height: 40px;
     }
 
     .minutes {
-        background-image: url(/img/mm.png);
+        background-image: url(img/mm.png);
         width: 64px;
         height: 40px;
     }
 
     .seconds {
-        background-image: url(/img/ss.png);
+        background-image: url(img/ss.png);
         width: 64px;
         height: 40px;
     }
@@ -1030,7 +1030,7 @@ footer{display: flex;
         background-size: 33px 33px;
         background-repeat: no-repeat;
         border: none;
-        background-image: url(/img/arrinput.png);
+        background-image: url(img/arrinput.png);
         position: absolute;
         top: 4px;
         left: 240px;
@@ -1049,14 +1049,14 @@ footer{display: flex;
 
 
     .vector-left {
-        background-image: url(/img/Vector-left-3.png);
+        background-image: url(img/Vector-left-3.png);
         width: 174px;
         height: 144px;
     }
 
 
     .vector-right {
-        background-image: url(/img/Vector-right-3.png);
+        background-image: url(img/Vector-right-3.png);
         width: 156px;
         height: 150px;
     }
