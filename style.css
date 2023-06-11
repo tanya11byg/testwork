@@ -1094,7 +1094,8 @@ footer{display: flex;
         justify-content: space-between;
         height: auto;
     width: 320px;
-    
+        padding-left: 0;
+    padding-right: 0;
        
        
             margin-bottom: 99px;
